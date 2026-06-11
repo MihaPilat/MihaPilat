@@ -27,7 +27,7 @@ I am a passionate **Junior Unity & C# Developer** focused on creating clean, per
 * **What I did:** Implemented architecture using Zenject and made smooth UI animations using DOTween.
 * **Gameplay Preview:**
   <br>
-  
+  <img src="https://github.com/user-attachments/assets/63667911-3b75-43b5-9463-bd11d21837f7" width="500" alt="Gameplay Preview">
 
 ---
 
