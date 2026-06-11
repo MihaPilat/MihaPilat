@@ -34,8 +34,8 @@ I am a passionate **Junior Unity & C# Developer** focused on creating clean, per
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MihaPilat&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" alt="Mikhail's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihaPilat&layout=compact&theme=visual_studio_code&langs_count=5" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=MihaPilat&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true" alt="Mikhail's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MihaPilat&layout=compact&theme=visual_studio_code&langs_count=5" alt="Top Languages" height="180" />
 </p>
 
 ---
