@@ -23,7 +23,7 @@ I am a passionate **Junior Unity & C# Developer** focused on creating clean, per
 * **Time-Based High Score System:** The game tracks and saves your personal survival time record to encourage replayability.
 * **Dynamic Difficulty Scaling (Progressive Spawn):** Enemies spawn automatically over time, gradually becoming faster, stronger, and more complex as the clock ticks.
 
-* **Tech Stack:** Unity 2022, Zenject (DI), UniTask (Async), DOTween (UI & FX).
+* **Tech Stack:** Unity 2022, Zenject (DI), DOTween (UI & FX).
 * **What I did:** Implemented architecture using Zenject and made smooth UI animations using DOTween.
 * **Gameplay Preview:**
   <br>
